@@ -4,7 +4,7 @@ from .models import Stock
 from .forms import StockForm
 from django.contrib import messages
 
-TOKEN = "pk_35f4f3fe6a914c4fa0302e2f46bb3414"
+TOKEN = "your token"
 TICKER = "aapl"
 
 
